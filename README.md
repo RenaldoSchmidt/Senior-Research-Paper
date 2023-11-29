@@ -1,1 +1,1 @@
-# Senior-Research-Paper
+# Senior Research Paper
