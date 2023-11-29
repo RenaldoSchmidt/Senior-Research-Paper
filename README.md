@@ -1,1 +1,3 @@
 # Senior Research Paper
+
+I attended the Macomb Math Science Technology Center in middle school and high school. It is an advanced program where you would spend half of your day taking advanced classes. Each year we would do a scientific research project based on the science class that you took that year. Senior year I took physics, and for my research project, my partner and I decided to test if different reeds produce a significantly different sound output from a Saxophone. To accomplish this, we engineered a device that would output the same air pressure and contact into the saxophone. We ended up winning first place in physics at my school, and third in the state of Michigan!
